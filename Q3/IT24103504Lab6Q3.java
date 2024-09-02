@@ -11,7 +11,7 @@ import java.util.Scanner;
 
  System.out.println("Enter positive integers(terminate input with -99): ");
 
- while(count<=10000)
+ while(true)
 {
  System.out.print("Enter a number"+ ":");
  number=input.nextInt();
